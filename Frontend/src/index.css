@@ -1,0 +1,159 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    scroll-behavior: smooth;
+  }
+.display1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4.0625rem;
+    font-weight: 800;
+    line-height: 140%;
+}
+.display2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.4375rem;
+    font-weight: 800;
+    line-height: 140%;
+}
+.display3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 140%;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.25rem;
+    font-weight: 700;
+    line-height: 140%;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 140%;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 140%;
+}
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 140%;
+}
+h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 140%;
+}
+h6 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.125rem;
+    font-weight: 700;
+    line-height: 140%;
+}
+.subtitle {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 1.125rem;
+    font-weight: 600;
+    line-height: 140%;
+}
+.subtitle-bold{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 1.125rem;
+    font-weight: 800;
+    line-height: 140%;
+}
+.body1-semibold {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 150%;
+}
+.body1-bold {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 1rem;
+    font-weight: 800;
+    line-height: 150%;
+}
+.body1-regular {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 150%;
+}
+.body2-semibold {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 0.875rem;
+    font-weight: 600;
+    line-height: 150%;
+}
+.body2-regular {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 150%;
+}
+.body2-bold {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 0.875rem;
+    font-weight: 800;
+    line-height: 150%;
+}
+.body3-semibold {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 600;
+    line-height: 150%;
+}
+.body3-regular {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 400;
+    line-height: 150%;
+}
+.body3-bold {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 800;
+    line-height: 150%;
+}
+.body4-regular{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 0.625rem;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+.body4-semibold{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 0.625rem;
+    font-weight: 600;
+    line-height: 150%;
+}
+.body4-bold{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 0.625rem;
+    font-weight: 800;
+    line-height: 150%;
+}
+.body5-regular{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 0.500rem;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+.body5-semibold{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 0.500rem;
+    font-weight: 600;
+    line-height: 150%;
+}
